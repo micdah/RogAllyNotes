@@ -51,3 +51,9 @@ No need to index files on a gaming handheld, only used for gaming
 - Open "Services"
 - Locate "Windows Search"
 - Stop and set "Startup type" to "Disabled"
+
+
+### Ensure "Game Mode" is enabled
+
+- Open Settings > Gaming
+- Enable "Game Mode"
