@@ -31,3 +31,14 @@ For my use case, it's going to be on charger most of the time, so makes sense to
 - In MyAsus
 - Under Customization > Power & Performance
 - Enable "Battery Care Mode"
+
+
+### Uninstall / Disable Widgets
+
+To get rid of Widgets, even running in background, we can forcefully uninstall it
+
+- Open a PowerShell terminal in Administrator mode
+- Run 
+  ```powershell
+  Get-AppxPackage *WebExperience* | Remove-AppxPackage
+  ```
