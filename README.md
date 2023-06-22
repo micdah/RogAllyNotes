@@ -42,3 +42,12 @@ To get rid of Widgets, even running in background, we can forcefully uninstall i
   ```powershell
   Get-AppxPackage *WebExperience* | Remove-AppxPackage
   ```
+
+
+### Disable Windows Search Indexing
+
+No need to index files on a gaming handheld, only used for gaming
+
+- Open "Services"
+- Locate "Windows Search"
+- Stop and set "Startup type" to "Disabled"
