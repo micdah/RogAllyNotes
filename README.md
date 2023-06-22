@@ -40,7 +40,7 @@ To get rid of Widgets, even running in background, we can forcefully uninstall i
 - Open a PowerShell terminal in Administrator mode
 - Run 
   ```powershell
-  Get-AppxPackage *WebExperience* | Remove-AppxPackage
+  Get-AppxPackage *WebExperience* -AllUsers | Remove-AppxPackage -AllUsers
   ```
 
 Other apps to consider removing:
