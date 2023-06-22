@@ -43,6 +43,11 @@ To get rid of Widgets, even running in background, we can forcefully uninstall i
   Get-AppxPackage *WebExperience* | Remove-AppxPackage
   ```
 
+Other apps to consider removing:
+- `Microsoft.YourPhone`
+- `Microsoft.People`
+- `*OneDrive*`
+
 
 ### Disable Windows Search Indexing
 
