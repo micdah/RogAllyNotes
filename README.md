@@ -22,3 +22,12 @@ From [support.microsoft.com](https://support.microsoft.com/en-us/windows/options
 ### Uninstall "bloatware"
 
 - Simply uninstall all unnecessary pre-installed applications
+
+
+### Enable Battery Care Mode
+
+For my use case, it's going to be on charger most of the time, so makes sense to limit charging to 80%
+
+- In MyAsus
+- Under Customization > Power & Performance
+- Enable "Battery Care Mode"
