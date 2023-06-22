@@ -17,3 +17,8 @@ From [support.microsoft.com](https://support.microsoft.com/en-us/windows/options
 
 - From start, search "Windows Features"
 - Deselect "Virtual Machine Platform" and press OK
+
+
+### Uninstall "bloatware"
+
+- Simply uninstall all unnecessary pre-installed applications
